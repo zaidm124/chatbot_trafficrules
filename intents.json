@@ -1,0 +1,104 @@
+{
+  "intents": [
+    {
+      "tag": "circular_sign",
+      "patterns": [
+        "What's the meaning of a round sign with a number inside?",
+        "What's the significance of a circular sign with a number?",
+        "When you see a number inside a circular sign, what should you do?",
+        "What's expected when you encounter a circular sign with a number?"
+      ],
+      "responses": [
+        "Circular signs with numbers indicate max speed.",
+        "Match number to driving speed on round signs.",
+        "Round signs with numbers mean specific speed.",
+        "Adjust speed to match numbers on circular signs."
+      ]
+    },
+    {
+      "tag": "pedestrian_safety",
+      "patterns": [
+        "How should pedestrians behave at crosswalks?",
+        "What precautions should pedestrians take while crossing roads?",
+        "What's the best way for pedestrians to stay safe near traffic?",
+        "Can pedestrians cross the road anywhere they like?",
+        "How can pedestrians enhance their visibility to drivers?"
+      ],
+      "responses": [
+        "Pedestrians should always use crosswalks and obey traffic signals.",
+        "Pedestrians should look both ways before crossing and avoid distractions.",
+        "Pedestrians should make eye contact with drivers before crossing and stay visible.",
+        "Pedestrians should use designated crosswalks; crossing anywhere increases risks.",
+        "Wearing bright clothing and using reflective gear makes pedestrians more visible."
+      ]
+    },
+    {
+      "tag": "driving_license",
+      "patterns": [
+        "How can you apply for a driving license?",
+        "What documents are required to get a driving license?",
+        "What's the process of obtaining a learner's license?",
+        "What's the age requirement for obtaining a full driving license?",
+        "Can you drive without a driving license under certain circumstances?"
+      ],
+      "responses": [
+        "You can apply for a driving license at your local Regional Transport Office (RTO).",
+        "Documents like proof of age, address, and photographs are usually required for a license.",
+        "To get a learner's license, you typically need to pass a written test on traffic rules.",
+        "The age requirement for a full driving license varies by country and region.",
+        "In most cases, driving without a valid license is against the law, regardless of circumstances."
+      ]
+    },
+    {
+      "tag": "driving_distractions",
+      "patterns": [
+        "Why is using a mobile phone while driving dangerous?",
+        "What are common driving distractions?",
+        "How can drivers avoid distractions while driving?",
+        "What should you do if you need to use your phone while driving?",
+        "Why is focusing on the road crucial while operating a vehicle?"
+      ],
+      "responses": [
+        "Using a mobile phone while driving diverts attention from the road and increases the risk of accidents.",
+        "Common driving distractions include texting, talking on the phone, eating, and adjusting the radio.",
+        "Drivers can avoid distractions by keeping phones out of reach, focusing on the road, and using hands-free devices.",
+        "If you need to use your phone, pull over to a safe location before doing so.",
+        "Focusing on the road is essential to prevent accidents and ensure the safety of all road users."
+      ]
+    },
+    {
+      "tag": "vehicle_maintenance",
+      "patterns": [
+        "Why is regular vehicle maintenance important?",
+        "What are some essential vehicle maintenance tasks?",
+        "How often should you check your vehicle's oil levels?",
+        "What should you inspect before a long road trip?",
+        "How can proper vehicle maintenance enhance road safety?"
+      ],
+      "responses": [
+        "Regular vehicle maintenance ensures safety, performance, and longevity.",
+        "Essential maintenance tasks include checking tire pressure, oil levels, brakes, and lights.",
+        "You should check your vehicle's oil levels at least once a month.",
+        "Before a long road trip, inspect brakes, fluids, tires, and lights to ensure safety.",
+        "Proper maintenance reduces the risk of breakdowns and ensures optimal vehicle performance."
+      ]
+    },
+    {
+      "tag": "road_conditions",
+      "patterns": [
+        "How should you adjust your driving during heavy rain?",
+        "What precautions should you take when driving in foggy conditions?",
+        "How can you maintain control when driving on icy roads?",
+        "What's the recommended following distance in wet road conditions?",
+        "How do road conditions impact driving safety?"
+      ],
+      "responses": [
+        "During heavy rain, reduce speed, turn on headlights, and increase following distance.",
+        "In foggy conditions, drive at a reduced speed, use low beams, and use fog lights if available.",
+        "When driving on icy roads, drive slowly, avoid sudden movements, and increase following distance.",
+        "Maintain at least a three-second following distance in wet road conditions.",
+        "Road conditions affect traction and visibility, requiring drivers to adjust their driving accordingly."
+      ]
+    }
+  ]
+}
